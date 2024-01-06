@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-In this lab we're going to walk through the process of establishing an Active Directory home lab environment using Oracle Virtual Box. Setting up and operating this laboratory will undoubtedly enhance your comprehension of Active Directory and Windows networking. Therefore, I strongly suggest going through the steps multiple times to solidify your understanding. 
+In this lab, we're going to walk through the process of establishing an Active Directory home lab environment using Oracle Virtual Box. Setting up and operating this laboratory will undoubtedly enhance your comprehension of Active Directory and Windows networking. Therefore, I strongly suggest going through the steps multiple times to solidify your understanding. 
 
 [External Blog](https://medium.com/@godsonadotey00/how-to-setup-a-basic-home-lab-running-active-directory-oracle-virtualbox-add-users-with-ac552767f5e7)
 <br />
